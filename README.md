@@ -1,4 +1,7 @@
 # ComfyUI-TeaCacheHunyuanVideo
+Currently only supports BF16!!!
+目前只支持BF16！！！
+
 Thanks：https://github.com/ali-vilab/TeaCache
 
 This is a TeaCache acceleration node for HunYuan Video, supporting the native node workflow for seamless upgrades. Simply choose the acceleration multiplier you want—currently, three levels are available.  
