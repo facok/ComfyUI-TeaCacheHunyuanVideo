@@ -256,9 +256,9 @@ class TeaCacheHunyuanVideoSampler:
             raise
 
 NODE_CLASS_MAPPINGS = {
-    "TeaCacheHunyuanVideoSampler": TeaCacheHunyuanVideoSampler
+    "TeaCacheHunyuanVideoSampler_FOK": TeaCacheHunyuanVideoSampler
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "TeaCacheHunyuanVideoSampler": "TeaCache HunyuanVideo Sampler"
+    "TeaCacheHunyuanVideoSampler_FOK": "TeaCache HunyuanVideo Sampler"
 } 
