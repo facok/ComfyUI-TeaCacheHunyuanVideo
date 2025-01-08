@@ -1,6 +1,6 @@
 # ComfyUI-TeaCacheHunyuanVideo
-Currently only supports BF16!!!
-目前只支持BF16！！！
+~~Currently only supports BF16!!!~~
+~~目前只支持BF16！！！~~
 
 Thanks：https://github.com/ali-vilab/TeaCache
 
