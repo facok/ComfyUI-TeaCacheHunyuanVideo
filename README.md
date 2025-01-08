@@ -4,6 +4,11 @@
 
 Thanks：https://github.com/ali-vilab/TeaCache
 
+
+https://github.com/user-attachments/assets/35b865bf-bf86-4fb0-bb96-a2e50426fcd5
+
+
+
 This is a TeaCache acceleration node for HunYuan Video, supporting the native node workflow for seamless upgrades. Simply choose the acceleration multiplier you want—currently, three levels are available.  
 
 Acceleration may have some impact on quality, so feel free to experiment and see the results for yourself.
