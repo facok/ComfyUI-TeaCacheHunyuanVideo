@@ -72,17 +72,6 @@ class TeaCacheHunyuanVideoSampler:
                 # Get input dimensions
                 B, C, T, H, W = x.shape
                 
-                # Ensure consistent input dtypes
-                try:
-                    x = x.to(dtype=transformer.dtype)
-                    timestep = timestep.to(dtype=transformer.dtype)
-                    if context is not None:
-                        context = context.to(dtype=transformer.dtype)
-                    if guidance is not None:
-                        guidance = guidance.to(dtype=transformer.dtype)
-                except Exception as e:
-                    raise RuntimeError(f"Failed to convert input dtypes: {str(e)}")
-                
                 # Prepare modulation vectors
                 try:
                     # HunyuanVideo uses timestep_embedding for time step encoding
