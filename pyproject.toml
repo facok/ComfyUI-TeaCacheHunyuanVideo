@@ -1,0 +1,14 @@
+[project]
+name = "teacachehunyuanvideo"
+description = "This is a TeaCache acceleration node for HunYuan Video, supporting the native node workflow for seamless upgrades. Simply choose the acceleration multiplier you want—currently, three levels are available."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/facok/ComfyUI-TeaCacheHunyuanVideo"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-TeaCacheHunyuanVideo"
+Icon = ""
