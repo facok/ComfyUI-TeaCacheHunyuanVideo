@@ -1,6 +1,6 @@
 [project]
 name = "teacachehunyuanvideo"
-description = "This is a TeaCache acceleration node for HunYuan Video, supporting the native node workflow for seamless upgrades. Simply choose the acceleration multiplier you want—currently, three levels are available."
+description = "This is a TeaCache acceleration node for HunYuan Video, supporting the native node workflow. Simply choose the acceleration multiplier you want—currently, three levels are available."
 version = "1.0.0"
 license = {file = "LICENSE"}
 
