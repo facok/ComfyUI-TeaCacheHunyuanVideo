@@ -9,6 +9,6 @@ Repository = "https://github.com/facok/ComfyUI-TeaCacheHunyuanVideo"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "fok"
 DisplayName = "ComfyUI-TeaCacheHunyuanVideo"
 Icon = ""
